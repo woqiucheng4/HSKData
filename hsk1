@@ -1,1 +1,53 @@
-d
+{
+  "value": {
+    "update": 0,
+    "hsk": [
+      {
+        "characterName": "爱",
+        "pinyin": "ài (ai4)",
+        "definition": "to love; affection; to be fond of; to like;"
+      },
+      {
+        "characterName": "八",
+        "pinyin": "bā (ba1)",
+        "definition": " eight; 8;"
+      },
+      {
+        "characterName": "爸",
+        "pinyin": "bà (ba4)",
+        "definition": "father; dad; pa; papa;"
+      },
+      {
+        "characterName": "爱",
+        "pinyin": "ài (ai4)",
+        "definition": "to love; affection; to be fond of; to like;"
+      },
+      {
+        "characterName": "八",
+        "pinyin": "bā (ba1)",
+        "definition": " eight; 8;"
+      },
+      {
+        "characterName": "爸",
+        "pinyin": "bà (ba4)",
+        "definition": "father; dad; pa; papa;"
+      },
+      {
+        "characterName": "爱",
+        "pinyin": "ài (ai4)",
+        "definition": "to love; affection; to be fond of; to like;"
+      },
+      {
+        "characterName": "八",
+        "pinyin": "bā (ba1)",
+        "definition": " eight; 8;"
+      },
+      {
+        "characterName": "爸",
+        "pinyin": "bà (ba4)",
+        "definition": "father; dad; pa; papa;"
+      }
+    ]
+  },
+  "code": "2000"
+}
